@@ -24,8 +24,6 @@ If you are interested in changing other habits, [check out the #100DaysOfX Proje
 
 * * *
 
-### The Why
-
 ### Next Steps
 
 If you’ve decided to join, here are the steps you need to go through:

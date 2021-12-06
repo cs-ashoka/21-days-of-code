@@ -7,8 +7,8 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
 
 ### Two Main Rules
 
-1.  Code minimum an hour every day for the next 100 days.
-2.  Tweet your progress every day with the #100DaysOfCode hashtag.
+1.  Code minimum an hour every day for the next 21 days.
+2.  Tweet your progress every day with the #21DaysOfCode hashtag.
 
 [Learn more about the rules](https://www.100daysofcode.com/rules)
 
@@ -29,7 +29,7 @@ If you’ve decided to join, here are the steps you need to go through:
 1.  [Tweet to commit to the challenge!](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%2021DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://github.com/cs-ashoka/21-days-of-code&hashtags=21DaysOfCode)
 2.  Read the original article: [Join the #100DaysOfCode](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/)
 3.  *Plan: Formulate what you want to work on during the challenge*. It might be - learning a framework, or starting a journey of learning to code, or improving your skill level with a particular technology or a programming language. Don’t spend too much time planning, but having a plan like this will help you on your path.
-4.  From today on, for the next 100 days, tweet your progress every day using the #100DaysOfCode hashtag.
+4.  From today on, for the next 21 days, tweet your progress every day using the #100DaysOfCode hashtag.
 
 ### Steps to increase the likelihood of success
 

@@ -1,5 +1,7 @@
-# [100-Days-Of-Code](https://www.100daysofcode.com/)
-![100](https://imgur.com/P3CsMo7.jpg)
+# [21-Days-Of-Code](https://www.100daysofcode.com/)
+<p align="center">
+  <img src="https://miro.medium.com/max/1192/1*IjfVm12nJS6AFlUIK97lXg.gif">
+</p>
 
 Welcome! Here you can learn the rules, get answers to your questions by reading the FAQ, and find out more about the community that’s growing around the challenge.
 
@@ -16,11 +18,7 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
 
 If you made the decision to commit to the challenge, Click here to tweet it to the world, making yourself accountable and taking your resolve to the next level!
 
-[Tweet to commit to the challenge!](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%20100DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://github.com/cs-ashoka/100-days-of-code&hashtags=100DaysOfCode)
-
-* * *
-
-If you are interested in changing other habits, [check out the #100DaysOfX Project](https://100daysofx.com/)!
+[Tweet to commit to the challenge!](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%2021DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://github.com/cs-ashoka/21-days-of-code&hashtags=21DaysOfCode)
 
 * * *
 
@@ -28,7 +26,7 @@ If you are interested in changing other habits, [check out the #100DaysOfX Proje
 
 If you’ve decided to join, here are the steps you need to go through:
 
-1.  [Tweet to commit to the challenge!](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%20100DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://github.com/cs-ashoka/100-days-of-code&hashtags=100DaysOfCode)
+1.  [Tweet to commit to the challenge!](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%2021DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://github.com/cs-ashoka/21-days-of-code&hashtags=21DaysOfCode)
 2.  Read the original article: [Join the #100DaysOfCode](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/)
 3.  *Plan: Formulate what you want to work on during the challenge*. It might be - learning a framework, or starting a journey of learning to code, or improving your skill level with a particular technology or a programming language. Don’t spend too much time planning, but having a plan like this will help you on your path.
 4.  From today on, for the next 100 days, tweet your progress every day using the #100DaysOfCode hashtag.

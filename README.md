@@ -7,10 +7,10 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
 
 <p align="center">
     <a href="https://github.com/cs-ashoka/21-days-of-code/commits/">
-    <img src="https://badgen.net/github/commits/cs-ashoka/21-days-of-code"
+    <img src="https://badgen.net/github/commits/cs-ashoka/21-days-of-code/"
          alt="GitHub commits">
     <a href="https://github.com/cs-ashoka/21-days-of-code/commits/main">
-    <img src="https://badgen.net/github/last-commit/cs-ashoka/21-days-of-code"
+    <img src="https://badgen.net/github/last-commit/cs-ashoka/21-days-of-code/"
          alt="GitHub last commit">
     <a href="https://github.com/cs-ashoka/21-days-of-code/network/">
     <img src="https://badgen.net/github/forks/cs-ashoka/21-days-of-code"

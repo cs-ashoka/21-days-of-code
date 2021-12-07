@@ -15,8 +15,8 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
     <a href="https://github.com/cs-ashoka/21-days-of-code/network/">
     <img src="https://badgen.net/github/forks/cs-ashoka/21-days-of-code"
          alt="GitHub forks">
-    <a href="https://badgen.net/github/issues/cs-ashoka/21-days-of-code/">
-    <img src="https://github.com/cs-ashoka/21-days-of-code/issues/"
+    <a href="https://github.com/cs-ashoka/21-days-of-code/issues/">
+    <img src="https://badgen.net/github/issues/cs-ashoka/21-days-of-code/"
          alt="GitHub issues">
     <a href="https://github.com/cs-ashoka/21-days-of-code/pulls?q=is%3Aopen">
     <img src="https://badgen.net/github/open-prs/cs-ashoka/21-days-of-code"

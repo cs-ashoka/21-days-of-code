@@ -15,8 +15,8 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
     <a href="https://github.com/cs-ashoka/21-days-of-code/pulls">
     <img src="https://img.shields.io/github/issues-pr-raw/cs-ashoka/21-days-of-code.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
-    <a href="https://twitter.com/intent/tweet?text=I'm publicly committing to the 21DaysOfCode Challenge starting today! Learn More and Join me! #21DaysOfCode AutoExec:&url=https://github.com/cs-ashoka/21-days-of-code">
-    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
+    <a href="https://twitter.com/intent/tweet?text=I'm%20publicly%20committing%20to%20the%2021DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!%20%2321DaysOfCode&url=https%3A%2F%2Fgithub.com%2Fcs-ashoka%2F21-days-of-code">
+    <img src="https://img.shields.io/twitter/url/https/github.com/cs-ashoka/21-days-of-code.svg?style=flat-square&logo=twitter"
          alt="GitHub tweet">
 </p>
 

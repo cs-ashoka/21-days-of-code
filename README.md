@@ -64,9 +64,9 @@ If you’ve decided to join, here are the steps you need to go through:
 - If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
 <a href = "https://github.com/cs-ashoka/21-days-of-code/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = cs-ashoka/21-days-of-code"/>
+<img src = "https://contrib.rocks/image?repo=cs-ashoka/21-days-of-code"/>
 </a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/cs-ashoka/21-days-of-code)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/cs-ashoka/21-days-of-code)

@@ -66,7 +66,7 @@ If you’ve decided to join, here are the steps you need to go through:
 <p align="center">
    <h1> Contributors </h1>
    <a href = "https://github.com/cs-ashoka/21-days-of-code/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=cs-ashoka/21-days-of-code" width="70" height="50"/>
+   <img src = "https://contrib.rocks/image?repo=cs-ashoka/21-days-of-code" width="120" height="50"/>
    </a>
 </p>
 

@@ -11,18 +11,17 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/cs-ashoka?color=green&style=for-the-badge&logo=github&logoColor=white">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <p align="center">
     <a href="https://github.com/cs-ashoka/21-days-of-code/commits/master">
-    <img src="https://img.shields.io/github/last-commit/cs-ashoka/21-days-of-code.svg?style=flat-square&logo=github&logoColor=white"
+    <img src="https://img.shields.io/github/last-commit/cs-ashoka/21-days-of-code?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
     <a href="https://github.com/cs-ashoka/21-days-of-code/issues">
-    <img src="https://img.shields.io/github/issues-raw/cs-ashoka/21-days-of-code.svg?style=flat-square&logo=github&logoColor=white"
+    <img src="https://img.shields.io/github/issues-raw/cs-ashoka/21-days-of-code?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
     <a href="https://github.com/cs-ashoka/21-days-of-code/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/cs-ashoka/21-days-of-code.svg?style=flat-square&logo=github&logoColor=white"
+    <img src="https://img.shields.io/github/issues-pr-raw/cs-ashoka/21-days-of-code?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
     <a href="https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%2021DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://github.com/cs-ashoka/21-days-of-code&hashtags=21DaysOfCode">
     <img src="https://img.shields.io/twitter/url/https/github.com/cs-ashoka/21-days-of-code.svg?style=flat-square&logo=twitter"

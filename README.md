@@ -62,3 +62,11 @@ If you’ve decided to join, here are the steps you need to go through:
 - Follow 100DaysOfCode Twitter Bot that retweets all the tweets that contain the #100DaysOfCode hashtag. It’s a great way to keep yourself motivated and to participate in the community. Thanks @amanhimself for creating it!
 - Important: Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It’s also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (probably more :) ) right away.
 - If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+
+<a href = "https://github.com/cs-ashoka/21-days-of-code/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo = cs-ashoka/21-days-of-code"/>
+</a>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/cs-ashoka/21-days-of-code)

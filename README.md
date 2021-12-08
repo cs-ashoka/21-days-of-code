@@ -63,6 +63,7 @@ If you’ve decided to join, here are the steps you need to go through:
 - Important: Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It’s also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (probably more :) ) right away.
 - If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
+### Contributors
 <a href = "https://github.com/cs-ashoka/21-days-of-code/graphs/contributors">
 <img src = "https://contrib.rocks/image?repo=cs-ashoka/21-days-of-code"/>
 </a>
@@ -70,3 +71,4 @@ If you’ve decided to join, here are the steps you need to go through:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fcs-ashoka%2F21-days-of-code)
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fcs-ashoka%2F21-days-of-code" alt="Hits">

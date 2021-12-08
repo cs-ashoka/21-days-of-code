@@ -69,4 +69,4 @@ If you’ve decided to join, here are the steps you need to go through:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/cs-ashoka/21-days-of-code)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fcs-ashoka%2F21-days-of-code)

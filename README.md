@@ -4,14 +4,14 @@
 </p>
 
 Welcome! Here you can learn the rules, get answers to your questions by reading the FAQ, and find out more about the community that’s growing around the challenge.
-https://badgen.net/github/commits/micromatch/micromatch
+
 <p align="center">
-    <a href="https://github.com/cs-ashoka/21-days-of-code/commits/">
-    <img src="https://badgen.net/github/commits/cs-ashoka/21-days-of-code/"
-         alt="GitHub commits">
-    <a href="https://github.com/cs-ashoka/21-days-of-code/network/">
-    <img src="https://badgen.net/github/forks/cs-ashoka/21-days-of-code"
-         alt="GitHub forks">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/cs-ashoka/21-days-of-code?color=green&style=for-the-badge">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cs-ashoka/21-days-of-code?color=green&style=for-the-badge">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cs-ashoka/21-days-of-code?color=green&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/cs-ashoka?color=green&style=for-the-badge">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cs-ashoka/21-days-of-code?color=green&style=for-the-badge">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/cs-ashoka/21-days-of-code?color=green&style=for-the-badge">
 </p>
 
 <p align="center">

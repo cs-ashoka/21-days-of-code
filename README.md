@@ -11,7 +11,6 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cs-ashoka/21-days-of-code?color=green&style=for-the-badge">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/cs-ashoka?color=green&style=for-the-badge">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cs-ashoka/21-days-of-code?color=green&style=for-the-badge">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/cs-ashoka/21-days-of-code?color=green&style=for-the-badge">
 </p>
 
 <p align="center">

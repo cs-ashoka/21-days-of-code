@@ -7,7 +7,7 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
 
 <p align="center">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white" height="20">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white" size="20">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/cs-ashoka?color=green&style=for-the-badge&logo=github&logoColor=white">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">

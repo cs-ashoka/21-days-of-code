@@ -48,11 +48,12 @@ There will be a leaderboard which will keep track of the number of commits that 
 
 Time yourself coding. Take breaks in between. Try out [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) (or [Animedoro](https://deepstash.com/idea/77397/whats-the-animedoro-technique), if that’s your thing!). Do whatever your heart says as long as it is not against the sacred law of an hour of coding every day (without burning yourself out, stay hydrated). Remember, consistency is key.
 
-Feel free and remember, you are always welcome to get in touch with [Rithik](mailto:rithik.kumars_ug24@ashoka.edu.in), [Vaibhav](mailto:vaibhav.sharma_ug24@ashoka.edu.in), [Archisman](mailto:archisman.dutta_ug24@ashoka.edu.in), [Jigyanhsu](jigyansu.rout_ug24@ashoka.edu.in), [Karnav](karnav.popat_ug24@ashoka.edu.in) for help. Keep in mind that we are only here to guide you with a beacon, and not take you hand-in-hand to the destination.
+Feel free to get in touch with [Rithik](mailto:rithik.kumars_ug24@ashoka.edu.in), [Vaibhav](mailto:vaibhav.sharma_ug24@ashoka.edu.in), [Archisman](mailto:archisman.dutta_ug24@ashoka.edu.in), [Jigyanhsu](jigyansu.rout_ug24@ashoka.edu.in), [Karnav](karnav.popat_ug24@ashoka.edu.in) for help. Keep in mind that we are only here to guide you with a beacon, and not take you hand-in-hand to the destination.
 
 If emails feel too old-school or just isn’t your favorite place, you could drop a text on Instagram to [Rithik](https://www.instagram.com/not.rithik/), [Archisman](https://www.instagram.com/_archismandutta_/), [Vaibhav](https://www.instagram.com/vaibhav.sh14/), [Jigyanshu](https://www.instagram.com/iamjr15/) or [Karnav](https://www.instagram.com/kkkarnav/) (but do note that we are all cs nerds without social lives so we don't really check insta often :p)
 
-Please do not text/spam the CS society via email/Instagram for help with particular problems! Use these points of contact instead!
+## Please do not contact the CS society for help with particular problems! Get in touch with these points of contact instead!
+
 Once again, dig through this goldmine: resources Vaibhav has unearthed. (Note: You can only access these from your Ashoka ID)
 
 Rules:

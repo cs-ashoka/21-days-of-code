@@ -17,8 +17,8 @@ jobs:
         id: get_contribution_data
         with:
           route: GET /repos/{owner}/{repo}/commits/{commit_sha}/pulls
-          owner: pawap90
-          repo: space-commit
+          owner: cs-ashoka
+          repo: 21-days-of-code
           commit_sha: ${{ github.sha }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

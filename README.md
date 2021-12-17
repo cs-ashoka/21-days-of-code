@@ -42,11 +42,11 @@ Also, this challenge will help you overcome the monkey of procrastination by dev
 #### How will this work?
 **tl;dr:** Choose questions, code, submit the problem with a working solution, check out the leaderboard, don’t stress yourself out, enjoy the process and find yourself learning.
 
-Every day, 4 questions plus 1 featured question will be posted on the repository. You can choose to solve all the questions, or only the questions that interest you, as long as you code for at least one hour every day. Submit Pull Requests with the code that you have solved. Only working solutions will be merged. You can code in any language you want (maybe even check out esoteric languages like brainfumk, or Folders they’re cool!)
+Every day, 4 questions plus 1 featured question will be posted on the repository. You can choose to solve all the questions, or only the questions that interest you, as long as you code for at least one hour every day. Submit Pull Requests with the code that you have solved. Only working solutions will be merged. You can code in any language you want (maybe even check out esoteric languages like [brainfu**m**k](https://esolangs.org/wiki/Brainfuck), or [Folders](https://esolangs.org/wiki/Folders) they’re cool!)
 
 There will be a leaderboard which will keep track of the number of commits that have been accepted.
 
-Time yourself coding. Take breaks in between. Check out [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) (or [Animedoro](https://deepstash.com/idea/77397/whats-the-animedoro-technique), if that’s your thing!). Do whatever your heart says as long as it is not against the sacred law of an hour of coding every day (without burning yourself out, stay hydrated). Remember, consistency is key.
+Time yourself coding. Take breaks in between. Try out [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) (or [Animedoro](https://deepstash.com/idea/77397/whats-the-animedoro-technique), if that’s your thing!). Do whatever your heart says as long as it is not against the sacred law of an hour of coding every day (without burning yourself out, stay hydrated). Remember, consistency is key.
 
 Feel free and remember, you are always welcome to get in touch with [Rithik](mailto:rithik.kumars_ug24@ashoka.edu.in), [Vaibhav](mailto:vaibhav.sharma_ug24@ashoka.edu.in), [Archisman](mailto:archisman.dutta_ug24@ashoka.edu.in), [Jigyanhsu](jigyansu.rout_ug24@ashoka.edu.in), [Karnav](karnav.popat_ug24@ashoka.edu.in) for help. Keep in mind that we are only here to guide you with a beacon, and not take you hand-in-hand to the destination.
 

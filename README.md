@@ -26,6 +26,8 @@
          alt="GitHub tweet">
 </p>
       
+[]()
+      
 The CS Society is hosting this challenge to motivate you to make a habit out of programming while concurrently lending your hand in building a library of handy solutions that could help others in need.
 
 This is open to complete beginners, and a list of resources have been compiled to get you rolling: [21 Days of Code Resources](https://drive.google.com/drive/u/1/folders/1MvR449gHhKe0jkpLwJi9X080wpb3nNwr)

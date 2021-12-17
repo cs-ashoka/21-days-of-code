@@ -1,5 +1,5 @@
 # [LeetCode](https://leetcode.com/)
 
 ### LeetCode Algorithms
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | GitHub ID |
+|---| ----- | -------- | ---------- | --------- |

@@ -1,5 +1,5 @@
 # [ICPC](https://icpc.global/)
 
 ### ICPC Algorithms
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | GitHub ID |
+|---| ----- | -------- | ---------- | --------- |

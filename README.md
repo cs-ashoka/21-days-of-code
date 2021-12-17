@@ -6,10 +6,14 @@
 Welcome! Here you can learn the rules, get answers to your questions by reading the FAQ, and find out more about the community that’s growing around the challenge.
 
 <p align="center">
+    <a href="https://github.com/cs-ashoka/21-days-of-code/network/members">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://github.com/cs-ashoka/21-days-of-code/graphs/commit-activity">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://github.com/cs-ashoka/21-days-of-code/graphs/contributors">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/cs-ashoka?color=green&style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://github.com/cs-ashoka/21-days-of-code/stargazers">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cs-ashoka/21-days-of-code?color=green&style=for-the-badge&logo=github&logoColor=white">
 </p>
 

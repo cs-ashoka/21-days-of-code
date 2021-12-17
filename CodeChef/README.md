@@ -1,5 +1,5 @@
 # [CodeChef](https://www.codechef.com/)
 
 ### CodeChef Algorithms
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | GitHub ID |
+|---| ----- | -------- | ---------- | --------- |

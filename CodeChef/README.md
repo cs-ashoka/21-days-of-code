@@ -2,7 +2,7 @@
 
 ### CodeChef Algorithms
 | # | Title | Solution | Difficulty | GitHub ID |
-|---| ----- | -------- | ---------- | --------- |
+| 01 | [Finding Square Roots](https://codechef.com/problems/FSQRT) | [Python](https://github.com/eyepatch-3098/21-days-of-code/blob/main/CodeChef/finding%20square%20root.py) | Easy | [teltorob](https://github.com/teltorob) |
 | 01 | [Finding Square Roots](https://codechef.com/problems/FSQRT) | [Python](https://github.com/eyepatch-3098/21-days-of-code/blob/main/CodeChef/finding%20square%20root.py) | Easy | [eyepatch-3098](https://github.com/eyepatch-3098) |
 | 01 | [FSQRT](https://www.codechef.com/problems/FSQRT) | [Java](https://github.com/Pranav10291/21-days-of-code/blob/main/CodeChef/FSQRT_Pranav10291.java) | Easy | [Pranav10291](https://github.com/Pranav10291) |
 | 01 | [Finding Square Roots](https://codechef.com/problems/FSQRT) | [Python3](https://github.com/argha-dot/21-days-of-code/blob/main/CodeChef/FSQRT_argha-dot.py) | Easy | [argha-dot](https://github.com/argha-dot) |

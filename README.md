@@ -123,7 +123,7 @@ Now, replace "Enter the link to the question here" :
 ```
 Repeat these steps for all of the columns.
 
-## How to submit a PR :
+## How to submit a PR:
 
 1. Click on the “fork” button to fork the GitHub repository (https://github.com/cs-ashoka/21-days-of-code), as illustrated in the picture below:
 ![new](https://i.ibb.co/bPnBmtV/1st-img.png)

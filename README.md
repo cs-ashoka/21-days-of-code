@@ -36,11 +36,11 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
 []()
 
 ***
-#### Welcome to the 1st day of #21DaysOfCode
+#### Welcome to the 2nd day of #21DaysOfCode
 
-[50 points] Problem of the day - [Finding Square Roots](https://codechef.com/problems/FSQRT)
+[50 points] Problem of the day - [Happy Number](https://leetcode.com/problems/happy-number/)
 
-[25 points] Bonus question - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+[25 points] Bonus question - [Total Expenses](https://www.codechef.com/problems/FLOW009)
 
 Have fun !!
 

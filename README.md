@@ -92,8 +92,8 @@ Please name your file as **ProblemName_YourGitHubID.extension**
 
 ## Structure
 We have changed the structure of the repository to make things easier for participants. Instead of submitting your solution in the folder of the platform of the question concerned, we now have folders pertaining to the day of the problem.
-(**Note** : We are considering the first day, 18 December as Day 0 because alot of people were unable to participate)
-**Example :** Today's solutions [Happy Number](https://leetcode.com/problems/happy-number/) and [Total Expenses]((https://www.codechef.com/problems/FLOW009)) should be submitted in the Day 1 folder and the README.md inside that folder shall be changed only.
+
+**Example :** Today's solutions [Happy Number](https://leetcode.com/problems/happy-number/) and [Total Expenses]((https://www.codechef.com/problems/FLOW009)) should be submitted in the Day 2 folder and the README.md inside that folder shall be changed only.
 
 ## How to edit the README.md file
 To make things simpler, we have added a template to the README.md file.

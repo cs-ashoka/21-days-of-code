@@ -10,6 +10,6 @@
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](https://github.com/Pranav10291/21-days-of-code/blob/main/Day%2002/HappyNumber_Pranav10291.java) | Easy | [Pranav10291](https://github.com/Pranav10291) |
 | FLOW009 | [Total Expenses](https://www.codechef.com/problems/FLOW009) | [Java](https://github.com/Pranav10291/21-days-of-code/blob/main/Day%2002/Expenses_Pranav10291.java) | Easy | [Pranav10291](https://github.com/Pranav10291) |
 | FLOW009 | [Total Expenses](https://www.codechef.com/problems/FLOW009) | [Python3](https://github.com/arayofcode/21-days-of-code/tree/main/Day%2002/TotalExpenses_arayofcode.py) | Easy | [arayofcode](https://github.com/arayofcode/) |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [C++](https://github.com/arayofcode/21-days-of-code/tree/main/Day%2002/HappyNumber_arayofcode.py) | Easy | [arayofcode](https://github.com/arayofcode/) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [C++](https://github.com/arayofcode/21-days-of-code/tree/main/Day%2002/HappyNumber_arayofcode.cpp) | Easy | [arayofcode](https://github.com/arayofcode/) |
 | Enter the Quesion Number here | [Enter the Question Name here](Enter the link to the question here) | [Name of the language used to solve the question](link to the solution) | Easy | [Your GitHub username](link to your GitHub ID) |
 #### Enter the required text in the spaces provided above, please do not remove the [] or () or | symbols, only change the text within them

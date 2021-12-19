@@ -55,9 +55,14 @@ To track your progress, fork this repo: [21 Days of Code](https://github.com/cs-
 1. [Rules](#rules)
 2. [Why you should do this?](#why-should-you-do-this)
 3. [How will this work?](#how-will-this-work)
-4. [Publicly commit to the challenge](#publicly-commit-to-the-challenge)
-5. [Next Steps](#next-steps)
-6. [Contact us](#contact-us)
+4. [Guidlines](#naming-your-files)
+   1. [Naming your files](#naming-your-files)
+   2. [Structure](#structure)
+   3. [How to edit the README.md file](#how-to-edit-the-readmemd-file)
+   4. [How to submit a PR](#how-to-submit-a-pr)
+5. [Publicly commit to the challenge](#publicly-commit-to-the-challenge)
+6. [Next Steps](#next-steps)
+7. [Contact us](#contact-us)
 
 ***
 
@@ -80,6 +85,58 @@ Every day, 4 questions plus 1 featured question will be posted on the repository
 There will be a leaderboard which will keep track of the number of commits that have been accepted.
 
 Time yourself coding. Take breaks in between. Try out [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) (or [Animedoro](https://deepstash.com/idea/77397/whats-the-animedoro-technique), if that’s your thing!). Do whatever your heart says as long as it is not against the sacred law of an hour of coding every day (without burning yourself out, stay hydrated). Remember, consistency is key.
+
+## Naming your files
+Please name your file as **ProblemName_YourGitHubID.extension**
+**Example :** If I am submitting a solution to the [Happy Numbers](https://leetcode.com/problems/happy-number/) problem, my submission file should be named **HappyNumbers_vaibhavsh7.py** (File extension depends on the language of your choice)
+
+## Structure
+We have changed the structure of the repository to make things easier for participants. Instead of submitting your solution in the folder of the platform of the question concerned, we now have folders pertaining to the day of the problem.
+(**Note** : We are considering the first day, 18 December as Day 0 because alot of people were unable to participate)
+**Example :** Today's solutions [Happy Number](https://leetcode.com/problems/happy-number/) and [Total Expenses]((https://www.codechef.com/problems/FLOW009)) should be submitted in the Day 1 folder and the README.md inside that folder shall be changed only.
+
+## How to edit the README.md file
+To make things simpler, we have added a template to the README.md file.
+```
+| # | Title | Solution | Difficulty | GitHub ID |
+|---| ----- | -------- | ---------- | --------- |
+| Enter the Quesion Number here | [Enter the Question Name here](Enter the link to the question here) | [Name of the language used to solve the question](link to the solution) | Easy | [Your GitHub username](link to your GitHub ID) |
+```
+Enter the required text in the spaces provided above, please do not remove the [] or () or | symbols, only change the text within them.
+Example, remove "Enter the Question here" to enter the question name, in case of Happy Number, it's 202, so the README.md file should now look like : 
+```
+| # | Title | Solution | Difficulty | GitHub ID |
+|---| ----- | -------- | ---------- | --------- |
+| 202 | [Enter the Question Name here](Enter the link to the question here) | [Name of the language used to solve the question](link to the solution) | Easy | [Your GitHub username](link to your GitHub ID) |
+```
+Next, edit the "Enter the Question Name here" like this :
+```
+| # | Title | Solution | Difficulty | GitHub ID |
+|---| ----- | -------- | ---------- | --------- |
+| 202 | [Happy Number](Enter the link to the question here) | [Name of the language used to solve the question](link to the solution) | Easy | [Your GitHub username](link to your GitHub ID) |
+```
+Now, replace "Enter the link to the question here" :
+```
+| # | Title | Solution | Difficulty | GitHub ID |
+|---| ----- | -------- | ---------- | --------- |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Name of the language used to solve the question](link to the solution) | Easy | [Your GitHub username](link to your GitHub ID) |
+```
+Repeat these steps for all of the columns.
+
+## How to submit a PR :
+
+1. Click on the “fork” button to fork the GitHub repository (https://github.com/cs-ashoka/21-days-of-code), as illustrated in the picture below:
+![new](https://i.ibb.co/bPnBmtV/1st-img.png)
+2. After you have finished solving the coding question, upload the file by traversing to the relevant directory and clicking on “Upload file”, as illustrated in the picture below:
+![](https://i.ibb.co/TR0LvVV/2nd-img.png)
+3. Upload the file with the relevant commit message and click on “Commit changes”, as illustrated below:
+![](https://i.ibb.co/JBn838C/3rd-img.png)
+4. After having uploaded the relevant files, click on “Open pull request” as illustrated below:
+![](https://i.ibb.co/2WqmGn9/4th-img.png)
+5. Use the following template for your pull request:
+![](https://i.ibb.co/JnMHtVN/5th-img.png)
+6. Finally, click on “Create pull request” to submit your request:
+![](https://i.ibb.co/kQMTH48/6th-img.png)
 
 ***
 
@@ -116,7 +173,7 @@ Once again, dig through this [goldmine](https://drive.google.com/drive/u/1/folde
 <p align="center">
    <h1> Contributors </h1>
    <a href = "https://github.com/cs-ashoka/21-days-of-code/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=cs-ashoka/21-days-of-code" width="100" height="50"/>
+   <img src = "https://contrib.rocks/image?repo=cs-ashoka/21-days-of-code" />
    </a>
 </p>
 

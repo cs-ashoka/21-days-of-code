@@ -1,4 +1,7 @@
-# [CodeChef](https://www.codechef.com/)
+# Day 0
+#### [50 points] Problem of the day - Finding Square Roots (https://codechef.com/problems/FSQRT)
+#### [25 points] Bonus question - Palindrome Number (https://leetcode.com/problems/palindrome-number/)
+
 
 
 | # | Title | Solution | Difficulty | GitHub ID |

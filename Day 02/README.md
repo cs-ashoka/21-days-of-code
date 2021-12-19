@@ -7,5 +7,6 @@
 |---| ----- | -------- | ---------- | --------- |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/Tashi21/21-days-of-code/blob/main/Day%2002/HappyNumber_Tashi21.py) | Easy | [Tashi21](https://github.com/Tashi21) |
 | FLOW009 | [Total Expenses](https://www.codechef.com/problems/FLOW009) | [Python](https://github.com/Tashi21/21-days-of-code/blob/main/Day%2002/TotalExpenses_Tashi21.py) | Easy | [Tashi21](https://github.com/Tashi21) |
+| Enter the Quesion Number here | [Enter the Question Name here](Enter the link to the question here) | [Name of the language used to solve the question](link to the solution) | Easy | [Your GitHub username](link to your GitHub ID) |
 
 #### Enter the required text in the spaces provided above, please do not remove the [] or () or | symbols, only change the text within them

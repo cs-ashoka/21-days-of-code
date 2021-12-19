@@ -1,4 +1,4 @@
-# Day 1
+# Day 2
 
 #### [50 points] Problem of the day - Happy Number (https://leetcode.com/problems/happy-number/)
 #### [25 points] Bonus question - Total Expenses (https://www.codechef.com/problems/FLOW009)

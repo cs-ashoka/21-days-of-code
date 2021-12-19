@@ -22,4 +22,6 @@
 | 01 | [Palindrome](https://leetcode.com/problems/palindrome-number/) | [Java](https://github.com/cs-ashoka/21-days-of-code/blob/main/LeetCode/Palindrome_Pranav10291.java) | Easy | [Pranav10291](https://github.com/Pranav10291) |
 | 01 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](https://github.com/cs-ashoka/21-days-of-code/blob/main/LeetCode/palindrome_number_argha-dot.py) | Easy | [argha-dot](https://github.com/argha-dot) |
 | 01 | [Palindrome Number](https://leetcode.com/submissions/detail/603610815/) | [Python](https://github.com/cs-ashoka/21-days-of-code/blob/main/LeetCode/Palindrome.py) | Easy | [VidurK2](https://github.com/VidurK2) |
-| 01 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://leetcode.com/problems/palindrome-number/submissions/) | Easy | [LMNTRIX1205](https://www.github.com/LMNTRIX1205)
+| 01 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://leetcode.com/problems/palindrome-number/submissions/) | Easy | [LMNTRIX1205](https://www.github.com/LMNTRIX1205) |
+| 09 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/Tashi21/21-days-of-code/blob/main/Day%2001/PalindromeNumber_Tashi21.py) | Easy | [Tashi21](https://github.com/Tashi21) |
+|FSQRT| [Finding Square Roots](https://www.codechef.com/problems/FSQRT) | [Python](https://github.com/Tashi21/21-days-of-code/blob/main/Day%2001/FindingSquareRoots_Tashi21.py) | Easy | [Tashi21](https://github.com/Tashi21) |

@@ -25,3 +25,5 @@
 | 01 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://leetcode.com/problems/palindrome-number/submissions/) | Easy | [LMNTRIX1205](https://www.github.com/LMNTRIX1205) |
 | 09 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/Tashi21/21-days-of-code/blob/main/Day%2001/PalindromeNumber_Tashi21.py) | Easy | [Tashi21](https://github.com/Tashi21) |
 |FSQRT| [Finding Square Roots](https://www.codechef.com/problems/FSQRT) | [Python](https://github.com/Tashi21/21-days-of-code/blob/main/Day%2001/FindingSquareRoots_Tashi21.py) | Easy | [Tashi21](https://github.com/Tashi21) |
+| FSQRT | [Finding Square Roots](https://www.codechef.com/problems/FSQRT) | [Python3](https://github.com/arayofcode/21-days-of-code/blob/main/Day%2001/FSQRT_arayofcode.py) | Easy | [arayofcode](https://github.com/arayofcode/) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](https://github.com/arayofcode/21-days-of-code/blob/main/Day%2001/palindromeNumber_arayofcode.py) | Easy | [arayofcode](https://github.com/arayofcode/) |

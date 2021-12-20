@@ -1,6 +1,6 @@
 # Day 3
 
-#### [50 points] Palindrome Number - (https://leetcode.com/problems/pascals-triangle/)
+#### [50 points] Pascal's Triangle - (https://leetcode.com/problems/pascals-triangle/)
 #### [25 points] Contains Duplicate - (https://leetcode.com/problems/contains-duplicate/)
 
 | # | Title | Solution | Difficulty | GitHub ID |

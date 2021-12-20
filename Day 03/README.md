@@ -1,5 +1,8 @@
 # Day 3
 
+#### [50 points] Problem of the day - Pascal's Triangle - (https://leetcode.com/problems/pascals-triangle/)
+#### [25 points] Bonus question - Contains Duplicate - (https://leetcode.com/problems/contains-duplicate/)
+
 | # | Title | Solution | Difficulty | GitHub ID |
 |---| ----- | -------- | ---------- | --------- |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](https://github.com/cs-ashoka/21-days-of-code/blob/main/Day%2003/pascalsTriangle_mayank_kamboj.py) | Easy | [mayankkamboj47](http://github.com/mayankkamboj47) |

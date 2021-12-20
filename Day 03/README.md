@@ -1,7 +1,7 @@
 # Day 3
 
-#### [50 points] Pascal's Triangle - (https://leetcode.com/problems/pascals-triangle/)
-#### [25 points] Contains Duplicate - (https://leetcode.com/problems/contains-duplicate/)
+#### [50 points] Problem of the day - Pascal's Triangle - (https://leetcode.com/problems/pascals-triangle/)
+#### [25 points] Bonus question - Contains Duplicate - (https://leetcode.com/problems/contains-duplicate/)
 
 | # | Title | Solution | Difficulty | GitHub ID |
 |---| ----- | -------- | ---------- | --------- |

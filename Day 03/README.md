@@ -2,4 +2,6 @@
 
 | # | Title | Solution | Difficulty | GitHub ID |
 |---| ----- | -------- | ---------- | --------- |
-| Enter the Quesion Number here | [Enter the Question Name here](Enter the link to the question here) | [Name of the language used to solve the question](link to the solution) | Easy | [Your GitHub username](link to your GitHub ID) |
+
+| 118 | [Pascals's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](https://github.com/doks12/21-days-of-code/blob/main/Day%2003/PascalsTriangle_dooks12.py) | Easy | [doks12](https://github.com/doks12) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/doks12/21-days-of-code/blob/main/Day%2003/ContainsDuplicate_doks12.py) | Easy | [doks12](https://github.com/doks12) |

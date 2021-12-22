@@ -1,4 +1,4 @@
-# **WebDev**
+# **Web Development**
 
 ## **IMPORTANT**!
 ### **Pull request submission guidelines:**

@@ -1,6 +1,16 @@
-# **WebDev**
+# **Web Development**
 
-This is meant to be a guide for absolute beginners with no coding experience to get started with web development. You can use the resources linked below to get started (If you end up hating this guide, feel free to yell at Rithik in the 21 Days of Code [discord server](https://discord.gg/MwyxAJgA) (yup, we have a discord server because we're cool like that!) for writing this abomination of a guide).
+## **IMPORTANT**!
+### **Pull request submission guidelines:**
+
+Please name your file as **ChallengeNumber_YourGitHubID.Extension**, unless specified otherwise, for a particular challenge.  
+**Example:** If I am submitting a solution to Challenge 1, my submission file should be named **Challenge1_NotRithik.html**.
+
+***
+
+# WebDev Guide starts here!
+
+This is meant to be a guide for absolute beginners with no coding experience to get started with web development. You can use the resources linked below to get started (If you end up hating this guide, feel free to yell at Rithik in the 21 Days of Code [discord server](https://discord.gg/MwyxAJgA) (yup, we have a discord server (if you didn't know for some reason) because we're cool like that!) for writing this abomination of a guide).
 
 **Disclaimer:** Web development, just like any other topic, is an EXTREMELY deep rabbit-hole. So, it is very important that you do not take in too much information at once and get overwhelmed by how much stuff there is to process!
 
@@ -28,7 +38,8 @@ Look for YouTube channels whose paces seems comfortable for you and watch them! 
 
 If these courses were too fast for you, check out [freecodecamp](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)'s tutorials (I personally find freecodecamp very slow-paced, but their content is excellent).
 
-You don't need to spend too much time on HTML, and also, **don't** get stuck trying to learn the tags. Get familiar with a few tags through YouTube, and then move on to making static HTML sites, and looking up a list of html tags on google, and playing around with them.
+You don't need to spend too much time on HTML, and also, **don't** get stuck trying to learn the tags. Get familiar with a few tags through YouTube, and then move on to making static HTML sites, and looking up a list of html tags on google, and playing around with them.  
+*Learn the tags as you make webpages, don't go out of your way to learn and memorize all of them!*
 
 It's the same story with CSS.
 
@@ -42,7 +53,7 @@ Do look into Web3 as well! It's still in its infancy, so it's fun! :)
 
 Happy Web-Devving!
 
-## **Resources**
+## **Resources** (compiled by Rithik)
 
 [Intro to WebDev](https://www.youtube.com/watch?v=ysEN5RaKOlA)  
 [Setting up the IDE (VSCode)](https://www.youtube.com/watch?v=4NfFFsQC77M)  
@@ -66,3 +77,6 @@ Happy Web-Devving!
 ### Backend
 
 [NodeJS](https://youtu.be/ENrzD9HAZK4)
+
+### **Alternative Resources** (Compiled by Vaibhav)
+These are more advanced, but find them [here](https://drive.google.com/drive/u/1/folders/1BD9VHH7L1yVPb1lDf6sadBiEJxOuhtgx)!

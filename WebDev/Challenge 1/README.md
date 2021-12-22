@@ -1,4 +1,4 @@
-# Challenge 1:
+# Challenge 1
 
 Submit a Pull Request with the HTML file and the image (use standard name format for the files as specified in the main info page)
 

@@ -5,6 +5,8 @@
 
 | # | Title | Solution | Difficulty | GitHub ID |
 |---| ----- | -------- | ---------- | --------- |
+| 118 | [Pascals's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](https://github.com/doks12/21-days-of-code/blob/main/Day%2003/PascalsTriangle_dooks12.py) | Easy | [doks12](https://github.com/doks12) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/doks12/21-days-of-code/blob/main/Day%2003/ContainsDuplicate_doks12.py) | Easy | [doks12](https://github.com/doks12) |
 |118| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](https://github.com/teltorob/21-days-of-code/blob/main/Day%2003/pascals_teltorob.py) | Easy |[teltorob](https://github.com/teltorob) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](https://github.com/cs-ashoka/21-days-of-code/blob/main/Day%2003/pascalsTriangle_mayank_kamboj.py) | Easy | [mayankkamboj47](http://github.com/mayankkamboj47) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/cs-ashoka/21-days-of-code/blob/main/Day%2003/containsDuplicate_mayank_kamboj.py) | Easy | [mayankkamboj47](http://github.com/mayankkamboj47) |

@@ -2,6 +2,8 @@
 
 | # | Title | Solution | Difficulty | GitHub ID |
 |---| ----- | -------- | ---------- | --------- |
+|67| [Add Binary](https://leetcode.com/problems/longest-common-prefix/) | [Java](https://github.com/Pranav10291/21-days-of-code/blob/main/Day%2006/AddBinary_Pranav10291.java) | Easy | [Pranav10291](https://github.com/Pranav10291) |
+|88| [Merge Sorted Array](https://leetcode.com/problems/length-of-last-word/) | [Java](https://github.com/Pranav10291/21-days-of-code/blob/main/Day%2006/MergeSorted_Pranav10291.java) | Easy | [Pranav10291](https://github.com/Pranav10291) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](https://github.com/argha-dot/21-days-of-code/blob/main/Day%2006/AddBinary_argha-dot.py) | Easy | [argha-dot](https://github.com/argha-dot) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](https://github.com/argha-dot/21-days-of-code/blob/main/Day%2006/MergeSortedArray_argha-dot.py) | Easy | [argha-dot](https://github.com/argha-dot) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](https://github.com/Tashi21/21-days-of-code/blob/main/Day%2006/AddBinary_Tashi21.py) | Easy | [Tashi21](https://github.com/Tashi21) |

@@ -36,15 +36,6 @@ Welcome! Here you can learn the rules, get answers to your questions by reading 
 []()
 
 ***
-#### Welcome to the 2nd day of #21DaysOfCode
-
-[50 points] Problem of the day - [Happy Number](https://leetcode.com/problems/happy-number/)
-
-[25 points] Bonus question - [Total Expenses](https://www.codechef.com/problems/FLOW009)
-
-Have fun !!
-
-***
 The CS Society is hosting this challenge to motivate you to make a habit out of programming while concurrently lending your hand in building a library of handy solutions that could help others in need.
 
 This is open to complete beginners, and a list of resources have been compiled to get you rolling: [21 Days of Code Resources](https://drive.google.com/drive/u/1/folders/1MvR449gHhKe0jkpLwJi9X080wpb3nNwr)
